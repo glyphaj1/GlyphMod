@@ -1,4 +1,4 @@
-# 🌟 Glyph Mod – Roblox FPS Booster & Performance Enhancer
+   # 🌟 Glyph Mod – Roblox Experience Enhancer
 
 A powerful yet simple batch-based tool designed to enhance your Roblox experience 
 with just a few clicks. Built for both low-end and high-end PCs, Glyph Mod helps you 
@@ -54,7 +54,7 @@ an easy-to-use terminal interface.
 ------------------------------
 
 🔧 Modified Configuration File
-Depending on your chosen loader, the script modifies the following file:
+Depending on your chosen bootstrapper, the script modifies the following file:
 
 - For **Bloxstrap**:  
   `%USERPROFILE%\AppData\Local\Bloxstrap\Modifications\ClientSettings\ClientAppSettings.json`
@@ -62,7 +62,7 @@ Depending on your chosen loader, the script modifies the following file:
 - For **Fishstrap**:  
   `%USERPROFILE%\AppData\Local\Fishstrap\Modifications\ClientSettings\ClientAppSettings.json`
 
-This file contains the FastFlags and client settings that control Roblox’s performance behavior.
+This file contains the FastFlags and client settings that control Roblox’s performance.
 
 ---
 💾 Backup Directory
@@ -72,7 +72,7 @@ Backups are stored in timestamped folders such as:
 
 - `ClientSettingsBackup_FPSUnlock` - previous config before using FPS Unlock
 - `ClientSettingsBackup_Optimizer` - previous config before using Optimizer
-- `ClientSettingsBackup_Checkmark` - previous config before using checkmark
+- `ClientSettingsBackup_Checkmark` - previous config before using Checkmark
 
 📁 These folders are saved in the **same directory** as the `glyphmod.bat` file, making it easy to find and restore previous settings if needed.
 
