@@ -1,0 +1,23 @@
+{
+"DFIntTaskSchedulerTargetFps": 5588562,
+"FLogNetwork": "7",
+"DFIntTaskSchedulerTargetFps": "9999",
+"DFIntNewRunningBaseAltitudeD": "195",
+"DFIntRunningBaseOrientationP": "450",
+"FIntPGSAngularDampingPermillPersecond": "9999999999",
+"FFlagFixGraphicsQuality": "True",
+"FFlagHandleAltEnterFullscreenManually": "False",
+"DFFlagDebugPauseVoxelizer": "True",
+"DFFlagDebugPerfMode": "True",
+"FFlagFastGPULightCulling3": "True",
+"FFlagPreloadAllFonts": "True",
+"DFIntS2PhysicsSenderRate": "250",
+"FFlagCommitToGraphicsQualityFix": "True",
+"GoogleAnalyticsAccountPropertyID": "null",
+  "FStringGamesUrlPath": "/games/",
+  "DFFlagBaseNetworkMetrics": "False",
+  "DFStringRobloxAnalyticsURL": "null",
+  "DFStringAltHttpPointsReporterUrl": "null",
+  "FFlagGameBasicSettingsFramerateCap5": false,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
+}
