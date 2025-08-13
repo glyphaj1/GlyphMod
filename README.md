@@ -70,7 +70,8 @@ All changes are client-side only and fully reversible via automatic backups.
 ------------------------------
 🙏 Thanks
 ------------------------------
-⚠️ This entire tool is **highly dependent** on the use of **Bloxstrap** (https://bloxstraplabs.com/) or **Fishstrap** (https://www.fishstrap.app/) .
+⚠️ This entire tool is **highly dependent** on the use of **Bloxstrap** (https://bloxstraplabs.com/)
+or **Fishstrap** (https://www.fishstrap.app/).
 
 Without these tools, the modifications made by Glyph Mod will not be applied correctly. 
 They provide the custom loader infrastructure that makes advanced Roblox optimization possible.
