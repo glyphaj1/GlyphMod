@@ -1,6 +1,4 @@
-
 === 🌟 Glyph Mod – Roblox ===
-
 
 A powerful yet simple batch-based tool designed to enhance your Roblox experience 
 with just a few clicks. Built for both low-end and high-end PCs, Glyph Mod helps you 
@@ -68,6 +66,19 @@ This tool only applies changes on your local system. It does NOT hack or interac
 Roblox servers in any way. It is 100% compliant with Roblox’s Terms of Service.
 
 All changes are client-side only and fully reversible via automatic backups.
+
+------------------------------
+🙏 Thanks
+------------------------------
+⚠️ This entire tool is **highly dependent** on the use of **Bloxstrap** (https://bloxstraplabs.com/) or **Fishstrap** (https://www.fishstrap.app/) .
+
+Without these tools, the modifications made by Glyph Mod will not be applied correctly. 
+They provide the custom loader infrastructure that makes advanced Roblox optimization possible.
+
+Massive thanks and appreciation to the developers of **Bloxstrap** and **Fishstrap** 
+for making projects like this possible.
+
+Please consider supporting their work too!
 
 ------------------------------
 🙌 CREDITS
