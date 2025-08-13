@@ -25,7 +25,7 @@ Usage ▶️
 --------
 
 1. Make sure Bloxstrap or Fishtrap is installed and properly set-up.
-2. Download the `roblox-optimizer.bat` file from this repository.
+2. Download the `roblox_enchancer.bat` file from this repository.
 3. Right-click the file and select Run as administrator.
 4. Choose the optimization options you'd like to apply to Roblox.
 5. The script will automatically create a backup of any settings it modifies, allowing you to safely revert changes if you want to.
