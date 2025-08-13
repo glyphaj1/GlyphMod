@@ -50,14 +50,31 @@ an easy-to-use terminal interface.
 | 6    | Insane           | ~1000 FPS     |
 
 ------------------------------
-📂 FILE LOCATIONS
+📂 File Locations
 ------------------------------
-Modified Config File:
-%USERPROFILE%\AppData\Local\Bloxstrap|Fishstrap\Modifications\ClientSettings\ClientAppSettings.json
 
-Backups:
-Saved in folders like `ClientSettingsBackup_FPSUnlock`, `ClientSettingsBackup_Optimizer`
-inside the same directory as the .bat file.
+🔧 Modified Configuration File
+Depending on your chosen loader, the script modifies the following file:
+
+- For **Bloxstrap**:  
+  `%USERPROFILE%\AppData\Local\Bloxstrap\Modifications\ClientSettings\ClientAppSettings.json`
+
+- For **Fishstrap**:  
+  `%USERPROFILE%\AppData\Local\Fishstrap\Modifications\ClientSettings\ClientAppSettings.json`
+
+This file contains the FastFlags and client settings that control Roblox’s performance behavior.
+
+---
+💾 Backup Directory
+Before any changes are made, Glyph Mod automatically creates a backup of the original configuration.
+
+Backups are stored in timestamped folders such as:
+
+- `ClientSettingsBackup_FPSUnlock` - previous config before using FPS Unlock
+- `ClientSettingsBackup_Optimizer` - previous config before using Optimizer
+- `ClientSettingsBackup_Checkmark` - previous config before using checkmark
+
+📁 These folders are saved in the **same directory** as the `glyphmod.bat` file, making it easy to find and restore previous settings if needed.
 
 ------------------------------
 🛡️ DISCLAIMER
