@@ -164,7 +164,7 @@
   "FStringWhitelistVerifiedUserId2": "4747735102",
   "DFIntConnectionMTUSize": "900",
 
-  "FPSUnlockerUseNewFPSCap": "True",
-  "FPSUnlockerNewFPSCap": "1000",
-  "FPSUnlockerFPSCap": "1000"
+  "DFIntTaskSchedulerTargetFps": 2147483647,
+  "FFlagGameBasicSettingsFramerateCap5": false,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
 }
