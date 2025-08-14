@@ -31,5 +31,6 @@
   "FFlagDebugDisableTelemetryV2Event": "True",
   "DFFlagEnableLightstepReporting2": "False",
   "FFlagDebugDisableTelemetryEventIngest": "True",
+  "FStringWhitelistVerifiedUserId": "5273401202",
   "DFFlagDebugPerfMode": "True"
 }
