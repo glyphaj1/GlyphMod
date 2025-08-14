@@ -55,6 +55,10 @@
   "FFlagDebugDisableTelemetryEventIngest": "True",
   "FFlagHighlightOutlinesOnMobile": "True",
   "FStringWhitelistVerifiedUserId": "4747735102",
-  "FStringWhitelistVerifiedUserId": "5273401202",
-  "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
+  "FStringWhitelistVerifiedUserId2": "5273401202",
+  "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
+
+  "DFIntTaskSchedulerTargetFps": 2147483647,
+  "FFlagGameBasicSettingsFramerateCap5": false,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
 }
