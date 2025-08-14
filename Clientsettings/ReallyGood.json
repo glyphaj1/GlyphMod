@@ -55,5 +55,6 @@
   "FFlagDebugDisableTelemetryEventIngest": "True",
   "FFlagHighlightOutlinesOnMobile": "True",
   "FStringWhitelistVerifiedUserId": "4747735102",
+  "FStringWhitelistVerifiedUserId": "5273401202",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
 }
