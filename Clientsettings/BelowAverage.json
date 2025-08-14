@@ -16,7 +16,6 @@
   "DFIntTaskSchedulerTargetFps": "240",
   "DFIntTextureQualityOverride": "3",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
-  "FStringDebugGraphicsPreferredGPUName": "NVIDIA GeForce GT 1030",
   "FLogNetwork": "7",
   "FFlagGameBasicSettingsFramerateCap5": "False",
   "FFlagAddHapticsToggle": "False",
@@ -39,6 +38,10 @@
   "DFIntNumAssetsMaxToPreload": "2147483647",
   "DFIntTrackCountryRegionAPIHundredthsPercent": "1000",
   "FStringWhitelistVerifiedUserId": "4747735102",
-  "FStringWhitelistVerifiedUserId": "5273401202",
-  "DFIntConnectionMTUSize": "900"
+  "FStringWhitelistVerifiedUserId2": "5273401202",
+  "DFIntConnectionMTUSize": "900",
+  
+  "DFIntTaskSchedulerTargetFps": 2147483647,
+  "FFlagGameBasicSettingsFramerateCap5": false,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
 }
