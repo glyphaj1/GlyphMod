@@ -1,3 +1,5 @@
+// Please only use this by itself, you can not use these with the other client settings (when pressing 2 in the software)
+// All client settings unlock fps!
 { 
    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
     "DFIntTaskSchedulerTargetFps": "9999"
