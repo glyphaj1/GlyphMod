@@ -1,6 +1,4 @@
 {
-   "_comment1": "Unlocks high FPS cap by disabling internal limiters.",
-   "_comment2": "DFIntTaskSchedulerTargetFps is set to 29383 for stability (2147483647 may be ignored).",
    "DFIntTaskSchedulerTargetFps": 2147483647,
    "FFlagGameBasicSettingsFramerateCap5": false,
    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
