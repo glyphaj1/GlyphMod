@@ -40,14 +40,14 @@ an easy-to-use terminal interface.
 -------------------------------------------
 ⚡ OPTIMIZATION TIERS                    
 -------------------------------------------
-| Tier | Label           | Estimated FPS  |
+| Tier | Type Of Pc       |   Average FPS |
 |------|------------------|---------------|
-| 1    | Trash PC         | ~80 FPS       |
-| 2    | Below Average    | ~120 FPS      |
-| 3    | Average          | ~170 FPS      |
-| 4    | Above Average    | ~240 FPS      |
+| 1    | Trash PC         | ~50 FPS       |
+| 2    | Below Average    | ~100 FPS      |
+| 3    | Average          | ~200 FPS      |
+| 4    | Above Average    | ~300 FPS      |
 | 5    | Really Good      | ~400 FPS      |
-| 6    | Insane           | ~1000 FPS     |
+| 6    | Insane           | ~600 FPS      |
 
 ------------------------------
 📂 File Locations
