@@ -102,7 +102,7 @@ Please consider supporting their work too!
 🙌 CREDITS
 ------------------------------
 - Created by: @glyphaj (https://github.com/glyphaj1)
-- Optimization configs from: My Repo (https://github.com/glyphaj1/RobloxOptimizer)
+- Optimization configs from: My Repo (https://github.com/glyphaj1/GlyphMod)
 
 ------------------------------
 ⭐ SUPPORT THIS PROJECT
