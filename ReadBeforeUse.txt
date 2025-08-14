@@ -1,0 +1,16 @@
+Hi. 
+
+Before using GlyphMod make sure roblox is FULLY CLOSED.
+
+**Don't use the FPS unlocker and the client settings at the same time ( pressing 2 in the software at the same time, it won't work. If you do this use the 'revert' in the software to clear all settings applied.)
+Client settings already have in-built FPS unlocker.**
+
+-- Checkmark -- 
+To use a client sided checkmark use the software then press more options and checkmark.
+Go to your browser go to 'roblox.com' then click your profile at the top left of the roblox page.
+For me the URL at the top is 'https://www.roblox.com/users/4747735102/profile'.
+Get the number in the middle of the URL in my case the number is '4747735102'.
+Copy this number and paste it into the software then press enter.
+Launch roblox and you'll have a checkmark.
+
+If this didn't work click revert and redo all these steps above.                                                   
