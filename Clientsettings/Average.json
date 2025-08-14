@@ -6,7 +6,7 @@
   "FIntTerrainArraySliceSize": "0",
   "DFFlagDisableDPIScale": "True",
   "FIntDebugForceMSAASamples": "1",
-  "DFIntTaskSchedulerTargetFps": "1500",
+  "DFIntTaskSchedulerTargetFps": 2147483647,
   "FFlagDisablePostFx": "True",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFIntTextureQualityOverride": "3",
@@ -18,7 +18,7 @@
   "FFlagPreloadAllFonts": "True",
   "FFlagFixGraphicsQuality": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "FFlagGameBasicSettingsFramerateCap5": "False",
+  "FFlagGameBasicSettingsFramerateCap5": false,
   "DFIntS2PhysicsSenderRate": "250",
   "DFIntNewRunningBaseAltitudeD": "195",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
@@ -31,7 +31,7 @@
   "FFlagDebugDisableTelemetryV2Event": "True",
   "DFFlagEnableLightstepReporting2": "False",
   "FFlagDebugDisableTelemetryEventIngest": "True",
-  "FStringWhitelistVerifiedUserId": "5273401202",
   "FStringWhitelistVerifiedUserId": "4747735102",
+  "FStringWhitelistVerifiedUserId": "5273401202",
   "DFFlagDebugPerfMode": "True"
 }
