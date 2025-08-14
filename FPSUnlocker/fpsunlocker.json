@@ -1,5 +1,6 @@
 {
-   // hello
+   "_comment1": "Use this FFlag config by itself. Don't combine with other client settings. All client settings unlock FPS.",
+   "_comment2": "All other client settings have an in-built FPS unlocker!",
    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-    "DFIntTaskSchedulerTargetFps": "9999"
+   "DFIntTaskSchedulerTargetFps": "9999"
 }
