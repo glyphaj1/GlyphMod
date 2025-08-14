@@ -160,6 +160,7 @@
   "FIntFRMMinGrassDistance": "0",
   "FIntEnableCullableScene2HundredthPercent3": "100",
   "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
-  "WhitelistUserId": "[\u00224747735102\u0022, \u0022987654321\u0022]",
+  "FStringWhitelistVerifiedUserId": "5273401202",
+  "FStringWhitelistVerifiedUserId": "4747735102",
   "DFIntConnectionMTUSize": "900"
 }
