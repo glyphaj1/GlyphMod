@@ -1,6 +1,7 @@
 {
-   "_comment1": "Use this FFlag config by itself. Don't combine with other client settings. All client settings unlock FPS.",
-   "_comment2": "All other client settings have an in-built FPS unlocker!",
-   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-   "DFIntTaskSchedulerTargetFps": "9999"
+   "_comment1": "Unlocks high FPS cap by disabling internal limiters.",
+   "_comment2": "DFIntTaskSchedulerTargetFps is set to 29383 for stability (2147483647 may be ignored).",
+   "DFIntTaskSchedulerTargetFps": 2147483647,
+   "FFlagGameBasicSettingsFramerateCap5": false,
+   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
 }
