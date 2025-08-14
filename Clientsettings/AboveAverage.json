@@ -132,5 +132,7 @@
   "FFlagDebugRenderingSetDeterministic": "False",
   "FIntDefaultMeshCacheSizeMB": "256",
   "DFFlagGpuVsCpuBoundTelemetry": "False",
+  "FStringWhitelistVerifiedUserId": "5273401202",
+  "FStringWhitelistVerifiedUserId": "4747735102",
   "DFIntCodecMaxOutgoingFrames": "10000"
 }
