@@ -16,7 +16,6 @@
   "DFIntTaskSchedulerTargetFps": "240",
   "DFIntTextureQualityOverride": "3",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
-  "FStringDebugGraphicsPreferredGPUName": "NVIDIA GeForce GT 1030",
   "FLogNetwork": "7",
   "FFlagGameBasicSettingsFramerateCap5": "False",
   "FFlagAddHapticsToggle": "False",
