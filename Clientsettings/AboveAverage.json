@@ -1,7 +1,6 @@
 {
   "FLogNetwork": "7",
   "FFlagHandleAltEnterFullscreenManually": "False",
-  "DFIntTaskSchedulerTargetFps": "9999",
   "FIntFontSizePadding": "5",
   "DFIntCanHideGuiGroupId": "32380007",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
@@ -134,5 +133,8 @@
   "DFFlagGpuVsCpuBoundTelemetry": "False",
   "FStringWhitelistVerifiedUserId": "5273401202",
   "FStringWhitelistVerifiedUserId": "4747735102",
-  "DFIntCodecMaxOutgoingFrames": "10000"
+  "DFIntCodecMaxOutgoingFrames": "10000",
+  "DFIntTaskSchedulerTargetFps": 2147483647,
+  "FFlagGameBasicSettingsFramerateCap5": false,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
 }
