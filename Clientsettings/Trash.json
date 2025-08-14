@@ -161,6 +161,10 @@
   "FIntEnableCullableScene2HundredthPercent3": "100",
   "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
   "FStringWhitelistVerifiedUserId": "5273401202",
-  "FStringWhitelistVerifiedUserId": "4747735102",
-  "DFIntConnectionMTUSize": "900"
+  "FStringWhitelistVerifiedUserId2": "4747735102",
+  "DFIntConnectionMTUSize": "900",
+
+  "FPSUnlockerUseNewFPSCap": "True",
+  "FPSUnlockerNewFPSCap": "1000",
+  "FPSUnlockerFPSCap": "1000"
 }
