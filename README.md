@@ -14,6 +14,8 @@ an easy-to-use terminal interface.
 - Client sided checkmark next to username
 - Automatic backups of your Roblox settings before changes
 - Works with both Bloxstrap and Fishstrap
+ ![GlyphModFeatures](https://i.ibb.co/1YMp10sJ/Glyph-Mod-V0-2.png)
+
 
 ------------------------------
 🖥️ REQUIREMENTS
